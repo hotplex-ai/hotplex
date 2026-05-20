@@ -250,3 +250,6 @@ If you discover a security vulnerability, please do NOT open a public issue. Rep
 ## 📜 License
 
 Distributed under the [Apache License 2.0](LICENSE).
+
+## CI/CD
+Automated PR review powered by Hermes Agent.
